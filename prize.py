@@ -8,7 +8,9 @@ prizes = [
     "honey mamas",
     "bobo bar",
     "Rivian",
-    "A house in Boulder"
+    "A house in Boulder",
+    "An Alaskan Bullworm",
+    "An Alaskan Cruise"
 ]
 
 def get_random_prize():
